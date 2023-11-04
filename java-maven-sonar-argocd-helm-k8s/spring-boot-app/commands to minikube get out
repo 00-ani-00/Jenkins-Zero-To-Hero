@@ -1,0 +1,3 @@
+ minikube service example-argocd-server (service which we have created  with argocd file)
+
+minikube service spring-boot-app-service (service name which created by argocd)
